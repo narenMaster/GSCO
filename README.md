@@ -1,2 +1,2 @@
-# p5.play-boilerplate
+GSCO
 Boiler plate for p5.play
